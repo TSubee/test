@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ateler", "Ateler.csproj", "{75A9070B-55D9-4D3C-8B7D-24D96B5853D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtelerTests", "..\AtelerTests\AtelerTests.csproj", "{9863AC45-6A88-4BCB-B310-F35366CEE0B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A9070B-55D9-4D3C-8B7D-24D96B5853D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A9070B-55D9-4D3C-8B7D-24D96B5853D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A9070B-55D9-4D3C-8B7D-24D96B5853D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A9070B-55D9-4D3C-8B7D-24D96B5853D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9863AC45-6A88-4BCB-B310-F35366CEE0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9863AC45-6A88-4BCB-B310-F35366CEE0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9863AC45-6A88-4BCB-B310-F35366CEE0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9863AC45-6A88-4BCB-B310-F35366CEE0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7774BC1E-8D3A-467A-8685-64885FE4E6AF}
+	EndGlobalSection
+EndGlobal
